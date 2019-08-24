@@ -1,7 +1,7 @@
 <template>
     <md-card>
       <md-card-header>
-        <md-avatar class="md-avatar-icon">A</md-avatar>
+        <md-avatar class="md-avatar-icon md-primary">A</md-avatar>
 
         <md-card-header-text>
           <div class="md-title">Media card</div>
@@ -11,8 +11,9 @@
       </md-card-header>
 
       <md-card-actions>
-        <md-button>Action</md-button>
-        <md-button>Action</md-button>
+        <md-button>Ver</md-button>
+        <md-button>Editar</md-button>
+        <md-button>Eliminar</md-button>
       </md-card-actions>
 
     </md-card>
